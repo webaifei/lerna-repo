@@ -1,5 +1,5 @@
 {
-  "name": "notice",
+  "name": "notice-test",
   "version": "0.0.3-alpha.0",
   "description": "notice module",
   "keywords": [
@@ -22,5 +22,5 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "f989e3eb0d5c299d93832a8aafbeff5784eaf46d"
+  "gitHead": "6ad2ce744697d1907513128f0ad4ca4e7bd225d0"
 }
